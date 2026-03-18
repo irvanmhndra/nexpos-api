@@ -4,7 +4,7 @@ A multi-tenant Point of Sale (POS) backend API built with Go, designed for retai
 
 ## Tech Stack
 
-- **Language:** Go 1.25
+- **Language:** Go 1.26.0
 - **Framework:** Echo v5
 - **Database:** PostgreSQL 18
 - **Authentication:** JWT with refresh tokens
